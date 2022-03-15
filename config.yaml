@@ -1,5 +1,4 @@
-# baseurl: https://sudoexpert.com
-baseurl: https://shmoopi.github.io/sudoexpert/
+baseurl: https://sudoexpert.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
