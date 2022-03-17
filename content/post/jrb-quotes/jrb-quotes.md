@@ -9,9 +9,7 @@ tags = [
 ]
 +++
 
-#### JRB
-
-These quotes are attributed to JRB.
+#### List of favorite quotes by JRB
 
 > I'll give that the attention it deserves.
 

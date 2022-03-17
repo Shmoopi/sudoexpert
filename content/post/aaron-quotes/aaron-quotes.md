@@ -9,9 +9,7 @@ tags = [
 ]
 +++
 
-#### Aaron
-
-These quotes are attributed to Aaron.
+#### List of favorite quotes by Aaron
 
 > How are soda and juice not the same thing?
 
