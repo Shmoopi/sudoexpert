@@ -12,9 +12,7 @@ tags = [
 
 #### List of favorite quotes by JRB
 
-> I'll give that the attention it deserves.
-
-Context: Stated sarcastically about nearly anything non-urgent / idiotic.
+> I'll give that the attention it deserves. [^1]
 
 > There’s a METH to my madness
 
@@ -22,10 +20,10 @@ Context: Stated sarcastically about nearly anything non-urgent / idiotic.
 
 > All exits lead to the gift shop, my man.
 
-> Your Honor, this was NOT an orgy. It was a free-range bodily fluid ideation session.
+> Your Honor, this was NOT an orgy. It was a free-range bodily fluid ideation session. [^2]
 
-Context: No clue.
+> I’m wrapping presents. I HATE wrapping presents.  Mine look like IED’s when I’m finished.  Or after an origami art therapy class at a Parkinson’s Clinic. [^3]
 
-> I’m wrapping presents. I HATE wrapping presents.  Mine look like IED’s when I’m finished.  Or after an origami art therapy class at a Parkinson’s Clinic.
-
-Context: Wrapping gifts for the kids.
+[^1]: Stated sarcastically about nearly anything non-urgent / idiotic.
+[^2]: No clue.
+[^3]: Wrapping gifts for the kids.

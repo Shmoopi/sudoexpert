@@ -14,10 +14,9 @@ tags = [
 
 > How are soda and juice not the same thing?
 
-> Maybe if I was getting fucked in the ass, I wouldnt be thinking about hitting my juul.
+> Maybe if I was getting fucked in the ass, I wouldnt be thinking about hitting my juul. [^1]
 
-Context: Trying to quit vaping.
+> That landing was crap.  But in fairness, I paid for the landing I got - it was a $35 landing. [^2]
 
-> That landing was crap.  But in fairness, I paid for the landing I got - it was a $35 landing.
-
-Context: Flying.
+[^1]: Trying to quit vaping.
+[^2]: Flying.
