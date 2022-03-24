@@ -1,5 +1,6 @@
 +++
 title = "Fading Into Darkness - Quote"
+description = "Darkness quote"
 date = 2022-03-11
 categories = [
     "Quotes",

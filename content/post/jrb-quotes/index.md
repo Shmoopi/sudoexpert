@@ -1,5 +1,6 @@
 +++
 title = "JRB - Quotes"
+description = "Hilarious quotes from JRB"
 date = 2022-03-14
 categories = [
     "Quotes"

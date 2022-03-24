@@ -1,5 +1,6 @@
 +++
 title = "Aaron - Quotes"
+description = "Quotes from Aaron"
 date = 2022-03-14
 categories = [
     "Quotes"
