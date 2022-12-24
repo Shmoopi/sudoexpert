@@ -12,7 +12,7 @@ tags = [
 image = "question-unsplash.jpg"
 +++
 
-> _In early 2012, I released an application that secretly contained tethering functionality._
+> _In early 2012, I released an iPhone application that secretly contained tethering functionality._
 >
 > _The application reached the #2 paid app position in the App Store and made over $20,000 before being removed._
 >
@@ -20,15 +20,11 @@ image = "question-unsplash.jpg"
 
 #### The Idea
 
-One day in December of 2011, a headline popped up on a news site about an iPhone application that reached the top paid App Store position in a little under two hours.
+On a December day in 2011, an iPhone app made headlines when it quickly rose to the top of the paid App Store rankings in less than two hours. According to the article, there were only a handful of other apps that had achieved such rapid success in the App Store's history, reaching the top one or two spots in a similar amount of time.
 
-According to the article, there were only three others like it in the existence of the App Store; with all three having reached the top one or two position in a similar amount of time.
+What truly astonished me was not the fact that this iPhone app reached the top paid position on the App Store in such a short time, but rather that there had only been three other apps that had ever attempted such a feat. If these few apps were able to rise to the top so quickly, why hadn't anyone else tried it? The answer, as you may have suspected, is because it goes against Apple's developer agreement.
 
-What surprised me most wasn’t that the application reached the top paid position in under two hours, it was that only three applications had ever attempted such a feat.
-
-If each of these apps could reach the top position in so little time, then why hadn’t anyone else attempted it? The reason, as you might have guessed, is because it violates the Apple developer agreement.
-
-All three of the applications contained the same feature: Tethering.
+All of the applications contained the same feature: Tethering.
 
 Tethering is a feature that enables you to share the network connection from your mobile device to your laptop or desktop computer. Tethering is barred from the iOS App Store. The reasons why aren't 100% clear, but, in Apple’s own words, are due to “causing excessive or unduly burden on a carrier’s network” – in other words, carriers lose money.
 
@@ -38,7 +34,7 @@ Although Apple strictly forbids tethering functionality on the App Store, many c
 
 I gathered as much information as I could about tethering and previous tethering applications.
 
-In total, I found that there had actually been 5 public iPhone applications that contained tethering capabilities. Only two of those applications were sanctioned by Apple with the intent of being sold openly as tethering applications: NetShare and iTether. (iTether being the only fully-fledged application that also had a desktop application to help users connect.)
+I discovered that there were actually a total of five public iPhone apps that offered tethering capabilities. However, only two of these apps were approved by Apple for sale as tethering apps: NetShare and iTether. Among these, iTether was the only one that also had a desktop application to assist users in connecting.
 
 The remaining three applications that snuck in were a mix match of utility applications, with varying degrees of functionality:
 
@@ -54,7 +50,7 @@ These applications utilized either a proxy, or in the case of iTether, a reverse
 
 Any developer can create an application with tethering functionality. In fact, there were two open-source iPhone applications available in 2011: "iPhone-SOCKS-proxy" and "Tabi".
 
-Inspired by "iPhone-SOCKS-proxy", I put all of my other projects on hold and set out to create a tethering application. In two days, I crafted a very basic SOCKS proxy tethering application. I plugged in my iPhone to test the application and to my surprise it actually worked!
+Inspired by "iPhone-SOCKS-proxy", I put all of my other projects on hold and set out to create a tethering application. In two days, I crafted a very basic SOCKS proxy tethering application. I plugged in my iPhone to test the application and, to my surprise, it actually worked!
 
 #### iRandomizer Numbers
 
@@ -66,7 +62,7 @@ iRandomizer Numbers cost a whopping **$4.99**. Quite a bit for a simple utility 
 
 ![iRandomizer screenshot](irandomizer-device.png)
 
-To be safe, the tethering feature was hidden behind a self-contained password in the application input.
+To be safe, the tethering feature hid behind a self-contained password in the application input.
 
 ![iRandomizer secret code](irandomizer-screenshot.png)
 
@@ -76,21 +72,19 @@ To be safe, the tethering feature was hidden behind a self-contained password in
 
 Within a week, even with the same name, icon, and functionality as my free application "iRandomizer", iRandomizer Numbers was accepted into the App Store.
 
-About a week after the release, the feature leaked onto a public forum. From there, the word spread like wildfire.
-
-A little over a week after the initial leak, a reporter called asking for a statement. I admitted that the app contained the feature and explained that I planned to let it stay up until Apple removed it. The story released later that evening and application sales took off.
+Less than a week after its release, the feature in question was leaked onto a public forum and quickly gained attention. A few days later, a reporter contacted me for a statement. I confirmed that the app contained the feature and stated that I planned to keep it available until Apple removed it. The story was published that evening and the app's sales soared.
 
 iRandomizer Numbers skyrocketed to the top #40 paid application spot, rapidly surpassing other top applications and finally getting to the #2 Paid position in the App Store. Downloads were up from 0 sales a day to 40, 100, and into the thousands.
 
 #### Removed from sale
 
-After **over 5,000 purchases in one day totaling over $20k**, iRandomizer Numbers was officially removed by Apple.
+After **over 5,000 purchases in one day, with sales totaling over $20k**, iRandomizer Numbers was officially removed from the App Store.
 
 #### Aftermath
 
 The following week, I received a phone call from a member of the App Store Review Team.
 
-The employee expressed extreme displeasure about the application. I was told, in no uncertain terms, that I would be lucky to keep my developer license and that additional app reviews would be given increased scrutiny. The reasons the application was pulled included:
+The employee expressed extreme displeasure about the application. I was told, in no uncertain terms, that I would be lucky to retain my developer account and that additional app reviews would be more thorough. The application was removed from sale due to:
 
 * Excessive bandwidth usage
 * Hidden features
