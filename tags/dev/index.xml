@@ -1,19 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dev on $ sudo -U Expert</title><link>https://sudoexpert.com/tags/dev/</link><description>Recent content in dev on $ sudo -U Expert</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sudoexpert.com/tags/dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Hidden Tethering App</title><link>https://sudoexpert.com/p/hidden-tethering-app/</link><pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate><guid>https://sudoexpert.com/p/hidden-tethering-app/</guid><description>&lt;img src="https://sudoexpert.com/p/hidden-tethering-app/question-unsplash.jpg" alt="Featured image of post Hidden Tethering App" />&lt;blockquote>
-&lt;p>&lt;em>In early 2012, I released an application that secretly contained tethering functionality.&lt;/em>&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dev on $ sudo -U Expert</title><link>https://sudoexpert.com/tags/dev/</link><description>Recent content in dev on $ sudo -U Expert</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 24 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sudoexpert.com/tags/dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Becoming a Software Engineer</title><link>https://sudoexpert.com/p/becoming-a-software-engineer/</link><pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate><guid>https://sudoexpert.com/p/becoming-a-software-engineer/</guid><description>&lt;img src="https://sudoexpert.com/p/becoming-a-software-engineer/ipod-touch.jpg" alt="Featured image of post Becoming a Software Engineer" />&lt;p>As a student, I had always been interested in technology and the endless possibilities it offered. I started out by hacking game consoles, learning about the inner workings of the hardware and software and finding ways to customize and modify them to my liking.&lt;/p>
+&lt;p>But I quickly realized that I wanted to do more than just hack existing systems - I wanted to create my own software and applications from scratch. So, I saved up and finally purchased my first MacBook, determined to learn how to program in C and build my own software.&lt;/p>
+&lt;p>It was a steep learning curve at first, but I was determined to succeed. I spent countless hours studying online tutorials, reading programming books, and experimenting with code. It wasn&amp;rsquo;t always easy, but the sense of accomplishment I felt when I finally got my first program to work was indescribable.&lt;/p>
+&lt;p>As I gained more experience and confidence, I started looking for new ways to challenge myself and take my skills to the next level. It was around this time that I saw a friend using a jailbroken iPod touch, running all sorts of custom apps and tweaks that I had never even heard of.&lt;/p>
+&lt;p>I was immediately intrigued, and I knew that I had to learn more. So, I began researching iPhone development and learning about the tools and technologies that were used to build apps for this platform. It wasn&amp;rsquo;t long before I was building my own jailbreak apps, using my newfound skills and knowledge to create software that was used by a community of hackers around the world.&lt;/p>
+&lt;p>A few months went by before iPhone OS 2.0 was announced and I saw Steve Jobs on stage demonstrating how easy it was to create iPhone applications with the new iPhone SDK. In just a few lines of code with a quick drag and drop interface, a shiny new application was created. It was incredible.&lt;/p>
+&lt;p>Having struggled to create simple jailbreak applications with hundreds of lines of code, I knew that the iPhone SDK was going to be life changing.&lt;/p>
+&lt;p>I spent hours each day reading articles and watching tutorials, trying to absorb as much information as I could. Eventually, I felt confident enough to start building my own App Store apps. I started small, with simple projects that allowed me to get a feel for the development process and learn from my mistakes.&lt;/p>
+&lt;p>As I gained more experience, I began tackling more complex projects, eventually building apps that were used by millions of people around the world.&lt;/p>
+&lt;p>And looking back, I can&amp;rsquo;t believe how far I&amp;rsquo;ve come since those early days of hacking game consoles and learning to program in C. It&amp;rsquo;s been an amazing journey, and I can&amp;rsquo;t wait to see where it takes me next. I never stop learning and improving my skills, always looking for new challenges and opportunities to grow as a developer.&lt;/p></description></item><item><title>Hidden Tethering App</title><link>https://sudoexpert.com/p/hidden-tethering-app/</link><pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate><guid>https://sudoexpert.com/p/hidden-tethering-app/</guid><description>&lt;img src="https://sudoexpert.com/p/hidden-tethering-app/question-unsplash.jpg" alt="Featured image of post Hidden Tethering App" />&lt;blockquote>
+&lt;p>&lt;em>In early 2012, I released an iPhone application that secretly contained tethering functionality.&lt;/em>&lt;/p>
 &lt;p>&lt;em>The application reached the #2 paid app position in the App Store and made over $20,000 before being removed.&lt;/em>&lt;/p>
 &lt;p>&lt;em>Here&amp;rsquo;s the story.&lt;/em>&lt;/p>
 &lt;/blockquote>
 &lt;h4 id="the-idea">The Idea&lt;/h4>
-&lt;p>One day in December of 2011, a headline popped up on a news site about an iPhone application that reached the top paid App Store position in a little under two hours.&lt;/p>
-&lt;p>According to the article, there were only three others like it in the existence of the App Store; with all three having reached the top one or two position in a similar amount of time.&lt;/p>
-&lt;p>What surprised me most wasn’t that the application reached the top paid position in under two hours, it was that only three applications had ever attempted such a feat.&lt;/p>
-&lt;p>If each of these apps could reach the top position in so little time, then why hadn’t anyone else attempted it? The reason, as you might have guessed, is because it violates the Apple developer agreement.&lt;/p>
-&lt;p>All three of the applications contained the same feature: Tethering.&lt;/p>
+&lt;p>On a December day in 2011, an iPhone app made headlines when it quickly rose to the top of the paid App Store rankings in less than two hours. According to the article, there were only a handful of other apps that had achieved such rapid success in the App Store&amp;rsquo;s history, reaching the top one or two spots in a similar amount of time.&lt;/p>
+&lt;p>What truly astonished me was not the fact that this iPhone app reached the top paid position on the App Store in such a short time, but rather that there had only been three other apps that had ever attempted such a feat. If these few apps were able to rise to the top so quickly, why hadn&amp;rsquo;t anyone else tried it? The answer, as you may have suspected, is because it goes against Apple&amp;rsquo;s developer agreement.&lt;/p>
+&lt;p>All of the applications contained the same feature: Tethering.&lt;/p>
 &lt;p>Tethering is a feature that enables you to share the network connection from your mobile device to your laptop or desktop computer. Tethering is barred from the iOS App Store. The reasons why aren&amp;rsquo;t 100% clear, but, in Apple’s own words, are due to “causing excessive or unduly burden on a carrier’s network” – in other words, carriers lose money.&lt;/p>
 &lt;p>Although Apple strictly forbids tethering functionality on the App Store, many carriers now include it in their unlimited plans. Back in 2012, tethering allowed users to skirt carrier fees and bypass extra costs associated with the feature on a mobile plan, which could help save a lot of money.&lt;/p>
 &lt;h4 id="the-execution">The Execution&lt;/h4>
 &lt;p>I gathered as much information as I could about tethering and previous tethering applications.&lt;/p>
-&lt;p>In total, I found that there had actually been 5 public iPhone applications that contained tethering capabilities. Only two of those applications were sanctioned by Apple with the intent of being sold openly as tethering applications: NetShare and iTether. (iTether being the only fully-fledged application that also had a desktop application to help users connect.)&lt;/p>
+&lt;p>I discovered that there were actually a total of five public iPhone apps that offered tethering capabilities. However, only two of these apps were approved by Apple for sale as tethering apps: NetShare and iTether. Among these, iTether was the only one that also had a desktop application to assist users in connecting.&lt;/p>
 &lt;p>The remaining three applications that snuck in were a mix match of utility applications, with varying degrees of functionality:&lt;/p>
 &lt;ul>
 &lt;li>Handy Light - a simple flashlight&lt;/li>
@@ -27,7 +34,7 @@
 &lt;li>Reverse SSH tunnel over USB&lt;/li>
 &lt;/ul>
 &lt;p>Any developer can create an application with tethering functionality. In fact, there were two open-source iPhone applications available in 2011: &amp;ldquo;iPhone-SOCKS-proxy&amp;rdquo; and &amp;ldquo;Tabi&amp;rdquo;.&lt;/p>
-&lt;p>Inspired by &amp;ldquo;iPhone-SOCKS-proxy&amp;rdquo;, I put all of my other projects on hold and set out to create a tethering application. In two days, I crafted a very basic SOCKS proxy tethering application. I plugged in my iPhone to test the application and to my surprise it actually worked!&lt;/p>
+&lt;p>Inspired by &amp;ldquo;iPhone-SOCKS-proxy&amp;rdquo;, I put all of my other projects on hold and set out to create a tethering application. In two days, I crafted a very basic SOCKS proxy tethering application. I plugged in my iPhone to test the application and, to my surprise, it actually worked!&lt;/p>
 &lt;h4 id="irandomizer-numbers">iRandomizer Numbers&lt;/h4>
 &lt;p>Thus, the application &amp;ldquo;iRandomizer Numbers&amp;rdquo;.&lt;/p>
 &lt;p>&lt;img src="https://sudoexpert.com/p/hidden-tethering-app/irandomizer-icon.png"
@@ -51,7 +58,7 @@ class="gallery-image"
 data-flex-grow="53"
 data-flex-basis="127px"
 >&lt;/p>
-&lt;p>To be safe, the tethering feature was hidden behind a self-contained password in the application input.&lt;/p>
+&lt;p>To be safe, the tethering feature hid behind a self-contained password in the application input.&lt;/p>
 &lt;p>&lt;img src="https://sudoexpert.com/p/hidden-tethering-app/irandomizer-screenshot.png"
 width="320"
 height="480"
@@ -76,14 +83,13 @@ data-flex-grow="53"
 data-flex-basis="127px"
 >&lt;/p>
 &lt;p>Within a week, even with the same name, icon, and functionality as my free application &amp;ldquo;iRandomizer&amp;rdquo;, iRandomizer Numbers was accepted into the App Store.&lt;/p>
-&lt;p>About a week after the release, the feature leaked onto a public forum. From there, the word spread like wildfire.&lt;/p>
-&lt;p>A little over a week after the initial leak, a reporter called asking for a statement. I admitted that the app contained the feature and explained that I planned to let it stay up until Apple removed it. The story released later that evening and application sales took off.&lt;/p>
+&lt;p>Less than a week after its release, the feature in question was leaked onto a public forum and quickly gained attention. A few days later, a reporter contacted me for a statement. I confirmed that the app contained the feature and stated that I planned to keep it available until Apple removed it. The story was published that evening and the app&amp;rsquo;s sales soared.&lt;/p>
 &lt;p>iRandomizer Numbers skyrocketed to the top #40 paid application spot, rapidly surpassing other top applications and finally getting to the #2 Paid position in the App Store. Downloads were up from 0 sales a day to 40, 100, and into the thousands.&lt;/p>
 &lt;h4 id="removed-from-sale">Removed from sale&lt;/h4>
-&lt;p>After &lt;strong>over 5,000 purchases in one day totaling over $20k&lt;/strong>, iRandomizer Numbers was officially removed by Apple.&lt;/p>
+&lt;p>After &lt;strong>over 5,000 purchases in one day, with sales totaling over $20k&lt;/strong>, iRandomizer Numbers was officially removed from the App Store.&lt;/p>
 &lt;h4 id="aftermath">Aftermath&lt;/h4>
 &lt;p>The following week, I received a phone call from a member of the App Store Review Team.&lt;/p>
-&lt;p>The employee expressed extreme displeasure about the application. I was told, in no uncertain terms, that I would be lucky to keep my developer license and that additional app reviews would be given increased scrutiny. The reasons the application was pulled included:&lt;/p>
+&lt;p>The employee expressed extreme displeasure about the application. I was told, in no uncertain terms, that I would be lucky to retain my developer account and that additional app reviews would be more thorough. The application was removed from sale due to:&lt;/p>
 &lt;ul>
 &lt;li>Excessive bandwidth usage&lt;/li>
 &lt;li>Hidden features&lt;/li>
