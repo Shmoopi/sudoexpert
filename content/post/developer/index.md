@@ -1,6 +1,6 @@
 +++
 title = "Becoming a Software Engineer"
-description = "Why I became a software engineer"
+description = "How I became a software engineer"
 date = 2022-12-24
 categories = [
     "Developer"
